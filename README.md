@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋🏻, I'm Mateo Julio Gomero Rios</h1>
+<h1 align="center">Hi 👋🏻, I'm Mateo Julio Gomero Rios (MateoRiosdev.)</h1>
 
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Transforming+ideas+into+reality;Building+modern+web+experiences;Frontend+Developer+%7C+React+%7C+TypeScript" alt="Typing animation" />
