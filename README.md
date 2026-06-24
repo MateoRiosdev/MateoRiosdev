@@ -10,13 +10,9 @@
 
 <h2 align="center">Frontend Developer passionate about building modern, responsive and user-friendly web applications</h2>
 
-<br>
+## 🚀 About Me
 
 <img align="right" width="300px" alt="coding" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-
----
-
-## 🚀 About Me
 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I'm a passionate **Frontend Developer** focused on creating clean, efficient, and visually appealing web experiences.
 
@@ -93,10 +89,6 @@
 </p>
 
 ---
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=TU_USERNAME&show_icons=true&theme=tokyonight"/>
-</p>
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USERNAME&theme=tokyonight"/>
